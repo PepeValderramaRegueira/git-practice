@@ -1,3 +1,5 @@
 Name: Pepe Valderrama Regueira
 Age: 22
-Favorite color: green
+Favorite color: Green
+Academy: IRONHACK Madrid
+Studying: Web Development Bootcamp
